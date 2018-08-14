@@ -1,5 +1,12 @@
+body{
+  background-image: url(./images/funky-lines.png);
+  background-attachment: fixed;
+}
 .title {
   width: 100%;
   text-align: center;
   margin-bottom: 50px;
+}
+.margin-left{
+  margin-left:5%;
 }
